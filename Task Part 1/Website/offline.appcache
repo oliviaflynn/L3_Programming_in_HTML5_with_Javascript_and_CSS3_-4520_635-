@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# v1.0.0 - 24/01/2019
+
+/index.html
+/games.html
+/media.html
+
+/img/cover.jpg
+/img/gameboy.jpg
+/img/snes.jpeg
+/img/switch.jpeg
+/img/thank.jpg
+
+/video/pixel.mp4
+
+/css/main.css
+
+/js/main.js
+/js/canvas.js
