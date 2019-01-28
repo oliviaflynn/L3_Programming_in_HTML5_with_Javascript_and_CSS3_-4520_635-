@@ -16,4 +16,5 @@ CACHE MANIFEST
 /css/main.css
 
 /js/main.js
+/js/webworker.js
 /js/canvas.js
